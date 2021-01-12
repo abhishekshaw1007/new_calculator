@@ -1,0 +1,54 @@
+.main {
+  position: absolute;
+  width: 370px;
+  height: 310px;
+  left: 29%;
+  top: 30%;
+  margin-left: -100px;
+  margin-top: -100px;
+  margin: auto;
+  background-color: black;
+}
+
+td {
+  background-color: black;
+}
+
+.title {
+  position: absolute;
+  margin-bottom: 10px;
+  text-align: center;
+  width: 365px;
+  color: blue;
+  border: solid black 2px;
+  top: 20%;
+  left: 29%;
+  font-size: 2rem;
+  font-family: cursive;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+input[type="button"] {
+  background-color: ivory;
+  color: black;
+  border: solid black 2px;
+  width: 80px;
+  height: 50px;
+  cursor: pointer;
+  border-radius: 40px;
+  font-size: x-large;
+}
+
+table {
+  height: 300px;
+  width: 300px;
+}
+
+input[type="text"] {
+  background-color: white;
+  border: solid black 2px;
+  width: 97%;
+  height: 50px;
+  font-size: xx-large;
+}
